@@ -1,5 +1,5 @@
 
-![alt text](team.jpg "Team Detail")<br>
+![alt text](team.png "TeamDetail") <br>
 Problem statement Description:
                                 Many residential society administrations, tolls, business complexes and parking spaces in India lack an automated system for car parking and vehicle monitoring. Most of the commercial and residential places face an impending problem of illegal car/vehicle parking inside their premises. This issue is not bounded to just parking, but also adds to the security concerns inside those establishments. Though there are solutions that exist in the market, the affordability comes into question. In this regard, we would like to have an affordable solution that caters to the Indian markets Expectation: For the team choosing this topic, we expect to have a working model / infrastructure of the solution wherein, when a vehicle passes through a checkpost and the solution identifies as many features as it can regard the situation of the vehicle. All Teams will be provided with an amount of video footage. The teams must build a fictitious database based on the vehicles appearing in footage and demonstrate the problems that they are able to solve/automate in existing infrastructure.
 
