@@ -20,7 +20,7 @@ Process of our system working are mention below:
 9. Scan QR code from receipt to done parking payment fee by driver. (After park vehicle in parking but before exit)
 10. Vehicle exit from parking - if the vehicle payment is done than automatically gate open else that is invalid access.<br>
 
-![alt text](project.jpg "Prototype")
+![alt text](project.png "Prototype")
 
 We required three databases:
 1. Daily Database - Stored data of daily passes vehicle.
