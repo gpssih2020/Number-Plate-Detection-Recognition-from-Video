@@ -1,1 +1,0 @@
-# Number-Plate-Detection-Recognize-from-Video
